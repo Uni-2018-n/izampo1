@@ -1,0 +1,190 @@
+<CONSTRUCTOR MESSEGES>
+<------------------------------------------>
+ID: 0
+Post Title: Inventing The Forest
+Post creator: Raleigh Huff
+Post Created Date: 24/12/2019
+Post Text: He said he was not there yesterday; however, many people saw him there.
+ID: 1
+Post Title: Pirates And Heroes
+Post creator: Nathanial Hester
+Post Created Date: 24/12/2019
+Post Text: A purple pig and a green donkey flew a kite in the middle of the night and ended up sunburnt.
+ID: 2
+Post Title: Life Beneath The King
+Post creator: Nathanial Hester
+Post Created Date: 24/12/2019
+Post Text: If you like tuna and tomato sauce- try combining the two. It’s really not as bad as it sounds.
+ID: 3
+Post Title: Breath Of My Nightmares
+Post creator: Noelle Riley
+Post Created Date: 24/12/2019
+Post Text: I want to buy a onesie… but know it won’t suit me.
+ID: 4
+Post Title: Tree Without Desire
+Post creator: Harvey Hutchinson
+Post Created Date: 24/12/2019
+Post Text: What was the person thinking when they discovered cow’s milk was fine for human consumption… and why did they do it in the first place!?
+Thread with subject: <Rules and usefull information> has just been created!
+ID: 5
+Post Title: Inventing The Forest
+Post creator: Nathanial Hester
+Post Created Date: 24/12/2019
+Post Text: Two seats were vacant.
+ID: 6
+Post Title: Friends And Enemies
+Post creator: Raleigh Huff
+Post Created Date: 24/12/2019
+Post Text: The old apple revels in its authority.
+ID: 7
+Post Title: Swindlers Of The River
+Post creator: Nathanial Hester
+Post Created Date: 24/12/2019
+Post Text: If the Easter Bunny and the Tooth Fairy had babies would they take your teeth and leave chocolate for you?
+ID: 8
+Post Title: Companions And Descendants
+Post creator: Noelle Riley
+Post Created Date: 24/12/2019
+Post Text: The body may perhaps compensates for the loss of a true metaphysics.
+ID: 9
+Post Title: Fate Of The Great
+Post creator: Nathanial Hester
+Post Created Date: 24/12/2019
+Post Text: What was the person thinking when they discovered cow’s milk was fine for human consumption… and why did they do it in the first place!?
+Thread with subject: <Union Of Utopia> has just been created!
+Forum with title: <Object Oriented Programming> has just been created!
+<------------------------------------------>
+</CONSTRUCTOR MESSEGES>
+
+<PRINT FORUM>
+<------------------------------------------>
+Printing Forum <Object Oriented Programming>:
+Subject: Rules and usefull information
+Subject: Union Of Utopia
+<------------------------------------------>
+</PRINT FORUM>
+
+<PRINT Rules and usefull information THREAD>
+<------------------------------------------>
+Subject: Rules and usefull information
+Creator: Admins
+Creation date: 24/12/2019
+ID: 0
+Post Title: Inventing The Forest
+Post creator: Raleigh Huff
+Creation Date: 24/12/2019
+Post Text: He said he was not there yesterday; however, many people saw him there.
+ID: 1
+Post Title: Pirates And Heroes
+Post creator: Nathanial Hester
+Creation Date: 24/12/2019
+Post Text: A purple pig and a green donkey flew a kite in the middle of the night and ended up sunburnt.
+ID: 2
+Post Title: Life Beneath The King
+Post creator: Nathanial Hester
+Creation Date: 24/12/2019
+Post Text: If you like tuna and tomato sauce- try combining the two. It’s really not as bad as it sounds.
+ID: 3
+Post Title: Breath Of My Nightmares
+Post creator: Noelle Riley
+Creation Date: 24/12/2019
+Post Text: I want to buy a onesie… but know it won’t suit me.
+ID: 4
+Post Title: Tree Without Desire
+Post creator: Harvey Hutchinson
+Creation Date: 24/12/2019
+Post Text: What was the person thinking when they discovered cow’s milk was fine for human consumption… and why did they do it in the first place!?
+<------------------------------------------>
+</PRINT Rules and usefull information THREAD>
+
+<SEARCH FIRST RANDOM POST>
+<------------------------------------------>
+ID: 5
+Post Title: Inventing The Forest
+Post creator: Nathanial Hester
+Creation Date: 24/12/2019
+Post Text: Two seats were vacant.
+<------------------------------------------>
+</SEARCH FIRST RANDOM POST>
+
+<SEARCH SECOND RANDOM POST>
+<------------------------------------------>
+ID: 6
+Post Title: Friends And Enemies
+Post creator: Raleigh Huff
+Creation Date: 24/12/2019
+Post Text: The old apple revels in its authority.
+<------------------------------------------>
+</SEARCH SECOND RANDOM POST>
+
+<ASK 2>
+Harvey Hutchinson======
+ID: 4
+Post Title: Tree Without Desire
+Post creator: Harvey Hutchinson
+Creation Date: 24/12/2019
+Post Text: What was the person thinking when they discovered cow’s milk was fine for human consumption… and why did they do it in the first place!?
+Nathanial Hester======
+ID: 1
+Post Title: Pirates And Heroes
+Post creator: Nathanial Hester
+Creation Date: 24/12/2019
+Post Text: A purple pig and a green donkey flew a kite in the middle of the night and ended up sunburnt.
+ID: 2
+Post Title: Life Beneath The King
+Post creator: Nathanial Hester
+Creation Date: 24/12/2019
+Post Text: If you like tuna and tomato sauce- try combining the two. It’s really not as bad as it sounds.
+ID: 5
+Post Title: Inventing The Forest
+Post creator: Nathanial Hester
+Creation Date: 24/12/2019
+Post Text: Two seats were vacant.
+ID: 7
+Post Title: Swindlers Of The River
+Post creator: Nathanial Hester
+Creation Date: 24/12/2019
+Post Text: If the Easter Bunny and the Tooth Fairy had babies would they take your teeth and leave chocolate for you?
+ID: 9
+Post Title: Fate Of The Great
+Post creator: Nathanial Hester
+Creation Date: 24/12/2019
+Post Text: What was the person thinking when they discovered cow’s milk was fine for human consumption… and why did they do it in the first place!?
+Noelle Riley======
+ID: 3
+Post Title: Breath Of My Nightmares
+Post creator: Noelle Riley
+Creation Date: 24/12/2019
+Post Text: I want to buy a onesie… but know it won’t suit me.
+ID: 8
+Post Title: Companions And Descendants
+Post creator: Noelle Riley
+Creation Date: 24/12/2019
+Post Text: The body may perhaps compensates for the loss of a true metaphysics.
+Raleigh Huff======
+ID: 0
+Post Title: Inventing The Forest
+Post creator: Raleigh Huff
+Creation Date: 24/12/2019
+Post Text: He said he was not there yesterday; however, many people saw him there.
+ID: 6
+Post Title: Friends And Enemies
+Post creator: Raleigh Huff
+Creation Date: 24/12/2019
+Post Text: The old apple revels in its authority.
+</ASK 2>
+
+<PROGRAM ENDED STARTING DESTROYING>
+Thread with subject: <Rules and usefull information> is about to be destroyed
+Post number:0 is about to be destroyed
+Post number:1 is about to be destroyed
+Post number:2 is about to be destroyed
+Post number:3 is about to be destroyed
+Post number:4 is about to be destroyed
+Thread with subject: <Union Of Utopia> is about to be destroyed
+Post number:5 is about to be destroyed
+Post number:6 is about to be destroyed
+Post number:7 is about to be destroyed
+Post number:8 is about to be destroyed
+Post number:9 is about to be destroyed
+Forum with title: <Object Oriented Programming> is about to be destroyed

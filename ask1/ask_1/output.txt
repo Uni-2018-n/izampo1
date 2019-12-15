@@ -1,0 +1,199 @@
+<CONSTRUCTOR MESSEGES>
+<------------------------------------------>
+ID: 0
+Post Title: Blood At The Dark
+Post creator: Janine Ortiz
+Post Created Date: 24/12/2019
+Post Text: There was no ice cream in the freezer, nor did they have money to go to the store.
+ID: 1
+Post Title: Country Without Desire
+Post creator: Harvey Hutchinson
+Post Created Date: 24/12/2019
+Post Text: Let me help you with your baggage.
+ID: 2
+Post Title: Restoration Of The Ancestors
+Post creator: Lea Weiss
+Post Created Date: 24/12/2019
+Post Text: The old apple revels in its authority.
+ID: 3
+Post Title: Fate Of The Great
+Post creator: Dawn Mckee
+Post Created Date: 24/12/2019
+Post Text: She only paints with bold colors; she does not like pastels.
+ID: 4
+Post Title: Country Without Desire
+Post creator: Lawanda Mccullough
+Post Created Date: 24/12/2019
+Post Text: Sometimes, all you need to do is completely make an ass of yourself and laugh it off to realise that life isn’t so bad after all.
+Thread with subject: <Rules and usefull information> has just been created!
+ID: 5
+Post Title: Life Beneath The King
+Post creator: Ruben Hopkins
+Post Created Date: 24/12/2019
+Post Text: Yeah, I think it's a good environment for learning English.
+ID: 6
+Post Title: Vultures And Trees
+Post creator: Lauren Woods
+Post Created Date: 24/12/2019
+Post Text: If the Easter Bunny and the Tooth Fairy had babies would they take your teeth and leave chocolate for you?
+ID: 7
+Post Title: Vanish In The World
+Post creator: Evangeline Buckley
+Post Created Date: 24/12/2019
+Post Text: My Mum tries to be cool by saying that she likes all the same things that I do.
+ID: 8
+Post Title: Life Beneath The King
+Post creator: Teodoro Sampson
+Post Created Date: 24/12/2019
+Post Text: She wrote him a long letter, but he didn't read it.
+ID: 9
+Post Title: Scared At Eternity
+Post creator: Guillermo Howell
+Post Created Date: 24/12/2019
+Post Text: She wrote him a long letter, but he didn't read it.
+Thread with subject: <Hero Of The West> has just been created!
+ID: 10
+Post Title: Life Beneath The King
+Post creator: Jillian Haley
+Post Created Date: 24/12/2019
+Post Text: Is it free?
+ID: 11
+Post Title: Restoration Of The Ancestors
+Post creator: Guillermo Howell
+Post Created Date: 24/12/2019
+Post Text: A purple pig and a green donkey flew a kite in the middle of the night and ended up sunburnt.
+ID: 12
+Post Title: Country Without Desire
+Post creator: Janine Ortiz
+Post Created Date: 24/12/2019
+Post Text: Check back tomorrow; I will see if the book has arrived.
+ID: 13
+Post Title: Pirates And Heroes
+Post creator: Lawanda Mccullough
+Post Created Date: 24/12/2019
+Post Text: I would have gotten the promotion, but my attendance wasn’t good enough.
+ID: 14
+Post Title: Companions And Descendants
+Post creator: Nathanial Hester
+Post Created Date: 24/12/2019
+Post Text: He told us a very exciting adventure story.
+Thread with subject: <Fate Of The Great> has just been created!
+ID: 15
+Post Title: Choking In The City
+Post creator: Lawanda Mccullough
+Post Created Date: 24/12/2019
+Post Text: Yeah, I think it's a good environment for learning English.
+ID: 16
+Post Title: Restoration Of The Ancestors
+Post creator: Edwin Cabrera
+Post Created Date: 24/12/2019
+Post Text: I want to buy a onesie… but know it won’t suit me.
+ID: 17
+Post Title: Life Beneath The King
+Post creator: Jillian Haley
+Post Created Date: 24/12/2019
+Post Text: Last Friday in three week’s time I saw a spotted striped blue worm shake hands with a legless lizard.
+ID: 18
+Post Title: Separated In The Titans
+Post creator: Tricia Glover
+Post Created Date: 24/12/2019
+Post Text: What was the person thinking when they discovered cow’s milk was fine for human consumption… and why did they do it in the first place!?
+ID: 19
+Post Title: Source Without Fear
+Post creator: Lucas Hill
+Post Created Date: 24/12/2019
+Post Text: She borrowed the book from him many years ago and hasn't yet returned it.
+Thread with subject: <Union Of Utopia> has just been created!
+Forum with title: <Object Oriented Programming> has just been created!
+<------------------------------------------>
+</CONSTRUCTOR MESSEGES>
+
+<PRINT FORUM>
+<------------------------------------------>
+Printing Forum <Object Oriented Programming>:
+Subject: Rules and usefull information
+Subject: Hero Of The West
+Subject: Fate Of The Great
+Subject: Union Of Utopia
+<------------------------------------------>
+</PRINT FORUM>
+
+<PRINT Rules and usefull information THREAD>
+<------------------------------------------>
+Subject: Rules and usefull information
+Creator: Admins
+Creation date: 24/12/2019
+ID: 0
+Post Title: Blood At The Dark
+Post creator: Janine Ortiz
+Creation Date: 24/12/2019
+Post Text: There was no ice cream in the freezer, nor did they have money to go to the store.
+ID: 1
+Post Title: Country Without Desire
+Post creator: Harvey Hutchinson
+Creation Date: 24/12/2019
+Post Text: Let me help you with your baggage.
+ID: 2
+Post Title: Restoration Of The Ancestors
+Post creator: Lea Weiss
+Creation Date: 24/12/2019
+Post Text: The old apple revels in its authority.
+ID: 3
+Post Title: Fate Of The Great
+Post creator: Dawn Mckee
+Creation Date: 24/12/2019
+Post Text: She only paints with bold colors; she does not like pastels.
+ID: 4
+Post Title: Country Without Desire
+Post creator: Lawanda Mccullough
+Creation Date: 24/12/2019
+Post Text: Sometimes, all you need to do is completely make an ass of yourself and laugh it off to realise that life isn’t so bad after all.
+<------------------------------------------>
+</PRINT Rules and usefull information THREAD>
+
+<SEARCH FIRST RANDOM POST>
+<------------------------------------------>
+ID: 17
+Post Title: Life Beneath The King
+Post creator: Jillian Haley
+Creation Date: 24/12/2019
+Post Text: Last Friday in three week’s time I saw a spotted striped blue worm shake hands with a legless lizard.
+<------------------------------------------>
+</SEARCH FIRST RANDOM POST>
+
+<SEARCH SECOND RANDOM POST>
+<------------------------------------------>
+ID: 10
+Post Title: Life Beneath The King
+Post creator: Jillian Haley
+Creation Date: 24/12/2019
+Post Text: Is it free?
+<------------------------------------------>
+</SEARCH SECOND RANDOM POST>
+
+<PROGRAM ENDED STARTING DESTROYING>
+Thread with subject: <Rules and usefull information> is about to be destroyed
+Post number:0 is about to be destroyed
+Post number:1 is about to be destroyed
+Post number:2 is about to be destroyed
+Post number:3 is about to be destroyed
+Post number:4 is about to be destroyed
+Thread with subject: <Hero Of The West> is about to be destroyed
+Post number:5 is about to be destroyed
+Post number:6 is about to be destroyed
+Post number:7 is about to be destroyed
+Post number:8 is about to be destroyed
+Post number:9 is about to be destroyed
+Thread with subject: <Fate Of The Great> is about to be destroyed
+Post number:10 is about to be destroyed
+Post number:11 is about to be destroyed
+Post number:12 is about to be destroyed
+Post number:13 is about to be destroyed
+Post number:14 is about to be destroyed
+Thread with subject: <Union Of Utopia> is about to be destroyed
+Post number:15 is about to be destroyed
+Post number:16 is about to be destroyed
+Post number:17 is about to be destroyed
+Post number:18 is about to be destroyed
+Post number:19 is about to be destroyed
+Forum with title: <Object Oriented Programming> is about to be destroyed
